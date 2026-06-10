@@ -1,6 +1,6 @@
 # Auto-Doc Verify 📄✅
 
-An automated document verification system that extracts and validates information from uploaded documents in real time using OCR, NLP, and a rule-based verification engine.
+An automated document verification system built for student admission at college that extracts and validates information from uploaded documents in real time using OCR, NLP, and a rule-based verification engine.
 
 ---
 
