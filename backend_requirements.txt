@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymongo
+python-dotenv
+pillow
+numpy
+easyocr
+groq
+pymupdf
